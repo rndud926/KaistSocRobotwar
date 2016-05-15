@@ -1,0 +1,100 @@
+﻿Build started 2015-09-10 오전 11:41:57.
+     1>Project "E:\daum\DaumCloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_SoC태권\robotwar\boxRecognition\boxRecognition.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt boxRecognitionDlg.cpp cannyedge.cpp imgcore.cpp linkedlist.cpp
+         imgcore.cpp
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(67): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(501): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(543): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(892): warning C4101: 'max' : unreferenced local variable
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1181): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1269): warning C4101: 'max' : unreferenced local variable
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1567): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1614): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1617): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1795): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1797): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1957): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2000): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2002): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2067): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2069): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2085): warning C4244: '=' : conversion from 'double' to 'BYTE', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2140): warning C4244: '=' : conversion from 'double' to 'BYTE', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2141): warning C4244: '=' : conversion from 'double' to 'BYTE', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2142): warning C4244: '=' : conversion from 'double' to 'BYTE', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2170): warning C4101: 'max' : unreferenced local variable
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2431): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2433): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2458): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2460): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2474): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2487): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2556): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2558): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2595): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2609): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2625): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2626): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2635): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2646): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2651): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2740): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2742): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2784): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2786): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2799): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2827): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2829): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2838): warning C4018: '>' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2878): warning C4101: 'temp' : unreferenced local variable
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2998): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(2999): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3012): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3013): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3128): warning C4018: '>=' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3139): warning C4018: '>=' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3155): warning C4018: '>=' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3175): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3114): warning C4101: 'size' : unreferenced local variable
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3110): warning C4101: 'averageH' : unreferenced local variable
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3210): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(112) : see declaration of 'localtime'
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3235): warning C4018: '>=' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(3361): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(112) : see declaration of 'localtime'
+         Generating Code...
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\imgcore.cpp(1745): warning C4715: 'SOCV_img_Draw' : not all control paths return a value
+         Compiling...
+         linkedlist.cpp
+         cannyedge.cpp
+         boxRecognitionDlg.cpp
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\boxrecognitiondlg.cpp(167): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\boxrecognitiondlg.cpp(169): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\boxrecognitiondlg.cpp(42): warning C4101: 'rgb' : unreferenced local variable
+     1>e:\daum\daumcloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_soc태권\robotwar\boxrecognition\boxrecognitiondlg.cpp(41): warning C4101: 'hsv' : unreferenced local variable
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\boxRecognition.res" boxRecognition.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\daum\DaumCloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_SoC태권\robotwar\Debug\rectangle.exe" /INCREMENTAL /NOLOGO vfw32.lib Winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\daum\DaumCloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_SoC태권\robotwar\Debug\rectangle.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\daum\DaumCloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_SoC태권\robotwar\Debug\rectangle.lib" /MACHINE:X86 Debug\boxRecognition.res
+         Debug\boxRecognition.obj
+         Debug\boxRecognitionDlg.obj
+         Debug\cannyedge.obj
+         Debug\dinotime.obj
+         Debug\imgcore.obj
+         Debug\linkedlist.obj
+         Debug\stdafx.obj
+     1>boxRecognitionDlg.obj : warning LNK4258: directive '/entry:WinMainCRTStartup' not compatible with switch '/ENTRY:wWinMainCRTStartup'; ignored
+            Creating library E:\daum\DaumCloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_SoC태권\robotwar\Debug\rectangle.lib and object E:\daum\DaumCloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_SoC태권\robotwar\Debug\rectangle.exp
+         boxRecognition.vcxproj -> E:\daum\DaumCloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_SoC태권\robotwar\Debug\rectangle.exe
+     1>Done Building Project "E:\daum\DaumCloud\학교생활\공모전\지능형soc로봇워\2014 soc로봇워\한밭대학교_흥봇_SoC태권\robotwar\boxRecognition\boxRecognition.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.74
